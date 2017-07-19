@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <color name="white">#000000</color>
+    <string name="Filter">Filter</string>
+        <string-array name="country_names">
+            <item>Sort By Date</item>
+            <item>Sort By Modified</item>
+            <item>Sort By Name</item>
+
+        </string-array>
+
+</resources>
