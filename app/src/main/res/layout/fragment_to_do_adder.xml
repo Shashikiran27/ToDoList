@@ -6,6 +6,7 @@
     android:orientation="vertical"
     android:padding="10dp"
     android:weightSum="1"
+    android:background="@color/colorAccent"
     tools:context=".AddToDoFragment">
 
 
